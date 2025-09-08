@@ -6,7 +6,7 @@
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-host-a-website-on-s3)  
 
 **Author:** David Brown  
-**Email:** rundcxl@gmail.com  
+**Email:** engr.davidb@gmail.com  
 
 ---
 
